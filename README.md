@@ -65,10 +65,10 @@ Catedratico
 
 URL DE SERVICIOS RESTFUL
 
-URL: /cursos/buscarTodos
+- URL: /cursos/buscarTodos
 
-URL: /cursos/crear
+- URL: /cursos/crear
 
-URL: /catedratico/buscarTodos
+- URL: /catedratico/buscarTodos
 
-URL: /catedratico/registrar
+- URL: /catedratico/registrar
